@@ -9,5 +9,5 @@ while(a!=0)
 a=a/10;
 ++count;
 }
-printf("the count is",%d);
+printf("the count is%d");
 }
